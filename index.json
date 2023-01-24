@@ -9,6 +9,10 @@
         "nl_BE": {
             "name": "Dutch (BE)",
             "file": "nl_BE.json"
+        },
+        "pirate_EN": {
+            "name": "Pirate English",
+            "file": "pirate_EN.json"
         }
     }
 }
